@@ -1,0 +1,12 @@
+<JGA083_40mm_Vickers_dead.model>
+	<castsShadow>	false	</castsShadow>
+	<parent>	PnFMods/SEA_PI_Yuudachi_Yuudachi/JSD507_Yudachi/gun/lods/JGA083_40mm_Vickers_dead_lod1	</parent>
+	<extent>	2.000000	</extent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.060857 -0.000274 -0.055126	</min>
+		<max>	0.056988 0.117721 0.101559	</max>
+	</visibilityBox>
+	<nodefullVisual>	PnFMods/SEA_PI_Yuudachi_Yuudachi/JSD507_Yudachi/gun/JGA083_40mm_Vickers_dead	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGA083_40mm_Vickers_dead.model>

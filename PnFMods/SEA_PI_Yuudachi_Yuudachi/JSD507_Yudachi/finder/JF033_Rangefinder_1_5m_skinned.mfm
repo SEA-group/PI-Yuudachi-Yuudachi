@@ -1,0 +1,29 @@
+<JF033_Rangefinder_1_5m_skinned.mfm>
+	<fx>	shaders/std_effects/PBS_skinned_emissive.fx	</fx>
+	<property>	emissivePower
+		<Float>	1.20000	</Float>
+	</property>
+	<property>	doubleSided
+		<Bool>	false	</Bool>
+	</property>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	127	</Int>
+	</property>
+	<collisionFlags>	0	</collisionFlags>
+	<materialKind>	0	</materialKind>
+	<property>	ambientOcclusionMap
+		<Texture>	PnFMods/SEA_PI_Yuudachi_Yuudachi/JSD507_Yudachi/finder/default_ao.dds	</Texture>
+	</property>
+	<property>	diffuseMap
+		<Texture>	PnFMods/SEA_PI_Yuudachi_Yuudachi/JSD507_Yudachi/finder/JF033_Rangefinder_1_5m_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/SEA_PI_Yuudachi_Yuudachi/JSD507_Yudachi/finder/JF033_Rangefinder_1_5m_mg.dds	</Texture>
+	</property>
+	<property>	normalMap
+		<Texture>	PnFMods/SEA_PI_Yuudachi_Yuudachi/JSD507_Yudachi/finder/JF033_Rangefinder_1_5m_n.dds	</Texture>
+	</property>
+</JF033_Rangefinder_1_5m_skinned.mfm>

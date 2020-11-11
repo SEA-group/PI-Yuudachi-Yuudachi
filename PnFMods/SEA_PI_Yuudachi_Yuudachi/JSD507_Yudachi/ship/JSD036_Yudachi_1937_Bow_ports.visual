@@ -1,0 +1,132 @@
+<JSD036_Yudachi_1937_Bow_ports.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+			<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+			<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+			<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+		</transform>
+		<node>
+			<identifier>	Bow_ports	</identifier>
+			<transform>
+				<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+				<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+				<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+				<row3>	0.0000 0.0000 0.0000 1.0000	</row3>
+			</transform>
+			<node>
+				<identifier>	HP_FX_Death_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 2.3274 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_Fire_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.3536 3.1835 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_FX_WakeTrace	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 3.5111 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_JGM_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.3219 2.6131 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Ship_death_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.0000 2.3274 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM086_Anchor_top	</identifier>
+				<transform>
+					<row0>	-0.5550 0.8169 0.2751 0.0000	</row0>
+					<row1>	0.2051 0.4429 -0.9015 0.0000	</row1>
+					<row2>	-0.8372 -0.4330 -0.4032 0.0000	</row2>
+					<row3>	-0.0597 0.3157 3.5273 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM086_Anchor_top_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.5550 -0.8169 -0.2751 0.0000	</row0>
+					<row1>	-0.2051 0.4429 -0.9015 0.0000	</row1>
+					<row2>	0.8372 -0.4330 -0.4032 0.0000	</row2>
+					<row3>	0.0597 0.3157 3.5273 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM087_Anchor_down	</identifier>
+				<transform>
+					<row0>	-0.5691 -0.7998 -0.2957 0.0000	</row0>
+					<row1>	0.2619 0.1744 -0.9757 0.0000	</row1>
+					<row2>	0.8115 -0.6172 0.1075 0.0000	</row2>
+					<row3>	0.0597 0.3157 3.5273 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_CM087_Anchor_down_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.5691 0.7998 0.2957 0.0000	</row0>
+					<row1>	-0.2619 0.1744 -0.9757 0.0000	</row1>
+					<row2>	-0.8115 -0.6172 0.1075 0.0000	</row2>
+					<row3>	-0.0597 0.3157 3.5273 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JTD0655	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000	</row2>
+					<row3>	0.000000 0.345773 3.191528	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM201_Bitt	</identifier>
+				<transform>
+					<row0>	0.6829 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.6802 -0.0610 0.0000	</row1>
+					<row2>	0.0000 0.0610 0.6802 0.0000	</row2>
+					<row3>	0.0000 0.3465 3.1826 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_JM285_Anchor_Capstan_high	</identifier>
+				<transform>
+					<row0>	0.5506 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 0.5485 -0.0484 0.0000	</row1>
+					<row2>	0.0000 0.0484 0.5485 0.0000	</row2>
+					<row3>	0.0000 0.3392 3.0394 1.0000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<boundingBox>
+		<min>	-0.0667 -0.0667 -0.0667	</min>
+		<max>	0.0667 0.0667 0.0667	</max>
+	</boundingBox>
+</JSD036_Yudachi_1937_Bow_ports.visual>

@@ -1,0 +1,13 @@
+<JGA083_40mm_Vickers.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.0.9	</exporter>
+	<parent>	PnFMods/SEA_PI_Yuudachi_Yuudachi/JSD507_Yudachi/gun/lods/JGA083_40mm_Vickers_lod1	</parent>
+	<extent>	2.000000	</extent>
+	<materialNames />
+	<visibilityBox>
+		<min>	-0.062956 -0.000274 -0.055332	</min>
+		<max>	0.056988 0.129611 0.095564	</max>
+	</visibilityBox>
+	<nodefullVisual>	PnFMods/SEA_PI_Yuudachi_Yuudachi/JSD507_Yudachi/gun/JGA083_40mm_Vickers	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</JGA083_40mm_Vickers.model>
