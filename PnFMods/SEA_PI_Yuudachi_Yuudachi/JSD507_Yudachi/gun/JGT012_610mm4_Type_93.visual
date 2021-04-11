@@ -20,15 +20,6 @@
 				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
 			</transform>
 			<node>
-				<identifier>	Turret_wire	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	HP_gunFire1	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
@@ -80,6 +71,7 @@
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
+	<![CDATA[
 	<renderSet>
 		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
 		<node>	Turret_wire	</node>
@@ -88,10 +80,11 @@
 			<primitive>	Turret_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Gun	</identifier>
+					<identifier>	SHIPWIREX_PBS_Gun	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuudachi_Yuudachi/JSD507_Yudachi/gun/JGT012_610mm4_Type_93_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
 		</geometry>
 	</renderSet>
+	]]>
 </JGT012_610mm4_Type_93.visual>

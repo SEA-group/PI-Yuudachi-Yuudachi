@@ -117,7 +117,7 @@
 			<primitive>	Stern_wire_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuudachi_Yuudachi/JSD507_Yudachi/ship/JSD036_Yudachi_1937_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>

@@ -1,6 +1,12 @@
 <JGT012_610mm4_Type_93_wire.mfm>
 	<collisionFlags>	0	</collisionFlags>
 	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<property>	alphaTestEnable
+		<Bool>	true	</Bool>
+	</property>
+	<property>	alphaReference
+		<Int>	127	</Int>
+	</property>
 	<property>	diffuseMap
 		<Texture>	PnFMods/SEA_PI_Yuudachi_Yuudachi/JSD507_Yudachi/gun/JGT012_610mm4_Type_93_a.dds	</Texture>
 	</property>

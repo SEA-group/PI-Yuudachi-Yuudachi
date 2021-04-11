@@ -126,7 +126,7 @@
 			<primitive>	Bow_patch_MidFront_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuudachi_Yuudachi/JSD507_Yudachi/ship/JSD036_Yudachi_1937_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
@@ -140,7 +140,7 @@
 			<primitive>	Bow_wireShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPWIRE_PBS_Hull	</identifier>
+					<identifier>	SHIPWIREX_PBS_Hull	</identifier>
 					<mfm>	PnFMods/SEA_PI_Yuudachi_Yuudachi/JSD507_Yudachi/ship/JSD036_Yudachi_1937_wire.mfm	</mfm>
 				</material>
 			</primitiveGroup>
