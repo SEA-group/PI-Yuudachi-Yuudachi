@@ -4,7 +4,7 @@
 		<Float>	1.20000	</Float>
 	</property>
 	<property>	animEmissionPower
-		<Float>	2.33333	</Float>
+		<Float>	6.33333	</Float>
 	</property>
 	<property>	animScale
 		<Vector4>	1	1	1	1	</Vector4>
